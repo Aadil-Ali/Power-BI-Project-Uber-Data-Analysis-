@@ -42,15 +42,18 @@ Focused on identifying peak hours to optimize driver availability.
 
 #### 🔹 Page 1: Overview & Location Intelligence
 *Visualizes payment methods, vehicle types, and critical location insights like the "Farthest Trip" and "Most Frequent Pickup Points".*
-![Overview Dashboard](image_2ae0a7.png)
+![Overview Dashboard] 
+<img width="1396" height="789" alt="Screenshot 2026-01-01 192708" src="https://github.com/user-attachments/assets/e693b8bb-745c-4377-a20f-9baa64566d36" />
 
 #### 🔹 Page 2: Time Analysis & Heatmaps
 *Analyzes demand over time using 10-minute intervals and daily trends.*
-![Time Analysis](image_299268.png)
+![Time Analysis] 
+<img width="1412" height="796" alt="Screenshot 2026-01-01 192720" src="https://github.com/user-attachments/assets/638ceb30-2db2-477a-bafc-6c50e6acccf3" />
 
 #### 🔹 Page 3: Detailed Grid View
 *Granular transaction-level data accessible via Drill-Through.*
-![Details View](image_299252.png)
+![Details View]
+<img width="1414" height="782" alt="Screenshot 2026-01-01 192728" src="https://github.com/user-attachments/assets/6a5f341b-8edf-4040-9e50-7bf1d57c9032" />
 
 ---
 
