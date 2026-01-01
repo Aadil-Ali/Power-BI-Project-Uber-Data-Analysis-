@@ -3,7 +3,7 @@
 ### 📊 Project Overview
 This Power BI project provides a comprehensive analysis of Uber trip data to help stakeholders track booking trends, revenue, and operational efficiency. The goal was to transform raw trip data into actionable insights for optimizing pricing strategies, driver allocation, and understanding customer behavior.
 
-**Live Project Link:** [Insert Link Here if available]
+**Live Project Link:** https://app.powerbi.com/view?r=eyJrIjoiYTYwMjBiNDAtODA1Yy00NzQ0LWJkZDYtOWRhZWJlNmViMWRjIiwidCI6IjY5MzI3NDk3LWFjMTktNGU5MC1iYWI0LWY2NDVlOTY0YTM4ZiJ9
 
 ---
 
